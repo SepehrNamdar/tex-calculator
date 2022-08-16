@@ -38,6 +38,7 @@ Dans un premier temps, ce programme devra gérer 2 types d'entreprise :
    * Adresse du siège social
 
 Le programme sera étendu par la suite avec d'autres types d'entreprise (SASU, SARL ...)
+
 Par ailleurs, le calcul des impôts devra respecter les règles de gestion suivantes :
 
 Pour les auto-entreprises :
@@ -48,3 +49,12 @@ Pour les SAS :
 
 Note : le CA de l'entreprise sera fourni au service par la classe de test et il n'est pas
 nécessaire de l'inclure dans les propriétés des entreprises.
+
+
+### Step 2
+
+Changer le design de ce programme en considerant que le pourcentage par défaut pour les entreprises est de 10%.
+
+### Step 3
+
+Changer le design de ce programme en considerant que les Associations ne paient pas d'împots.
